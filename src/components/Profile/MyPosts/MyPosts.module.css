@@ -1,0 +1,18 @@
+.posts_block{
+    padding: 0 15px;
+}
+
+.title{
+    margin-bottom: 20px;
+}
+
+.textarea{
+    display: block;
+    resize: horizontal;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 100px;
+    font-size: 16px;
+    padding: 5px;
+}
+

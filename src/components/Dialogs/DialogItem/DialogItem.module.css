@@ -1,0 +1,18 @@
+.user{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.user img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.active{
+    color: rgb(255, 215, 0);
+}
+
+.user__name{
+    color: #fff;
+}

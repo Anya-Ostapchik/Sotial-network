@@ -1,0 +1,26 @@
+.bg_img {
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 50px;
+}
+
+.user {
+    padding: 0 15px;
+    display: flex;
+    gap: 40px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.user img {
+    width: 20%;
+}
+
+.about {
+    width: 80%;
+    font-size: 20px;
+}
+
+.desc{
+    margin-bottom: 15px;
+}
